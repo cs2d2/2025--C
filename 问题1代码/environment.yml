@@ -1,0 +1,15 @@
+name: huawei_c1
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - pip
+  - pip:
+      - opencv-python
+      - pywavelets
