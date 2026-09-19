@@ -9,3 +9,6 @@
 !/问题1代码/**
 !/问题2/
 !/问题2/**
+
+# 保留根目录的 requirements.txt，方便克隆后安装依赖
+!/requirements.txt
